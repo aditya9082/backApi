@@ -20,7 +20,7 @@
 {"id":17,"title_name":"Car rental service"},
 {"id":18,"title_name":"Pet grooming salon"},
 {"id":19,"title_name":"Grocery store"},
-{"id":20,"title_name":"Interior design firm"}
+{"id":20,"title_name":"Interior design firm"},
 {"id":21,"title_name":"Bed and breakfast"},
 {"id":22,"title_name":"Travel agency"},
 {"id":23,"title_name":"Computer repair service"},
@@ -40,7 +40,7 @@
 {"id":37,"title_name":"Music store"},
 {"id":38,"title_name":"Language school"},
 {"id":39,"title_name":"Legal firm"},
-{"id":40,"title_name":"Art gallery"}       
+{"id":40,"title_name":"Art gallery"}    
 
 ]
 }
