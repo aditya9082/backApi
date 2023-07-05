@@ -1,0 +1,25 @@
+{
+  "data":
+[
+{"id":1,"title_name":"Toys"},
+{"id":2,"title_name":"Grocery"},
+{"id":3,"title_name":"Toys"},
+{"id":4,"title_name":"Games"},
+{"id":5,"title_name":"Shoes"},
+{"id":6,"title_name":"Outdoors"},
+{"id":7,"title_name":"Grocery"},
+{"id":8,"title_name":"Outdoors"},
+{"id":9,"title_name":"Baby"},
+{"id":10,"title_name":"Movies"},
+{"id":11,"title_name":"Health"},
+{"id":12,"title_name":"Movies"},
+{"id":13,"title_name":"Computers"},
+{"id":14,"title_name":"Jewelry"},
+{"id":15,"title_name":"Baby"},
+{"id":16,"title_name":"Shoes"},
+{"id":17,"title_name":"Tools"},
+{"id":18,"title_name":"Toys"},
+{"id":19,"title_name":"Health"},
+{"id":20,"title_name":"Industrial"}
+]
+}
